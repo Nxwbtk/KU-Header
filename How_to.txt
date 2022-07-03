@@ -6,7 +6,7 @@
 #    By: nxwbtk <bunthakan.s@ku.th>                 +#+  +:+    +#+     +#+         #
 #                                                  +#+ #+#     +#+     +#+          #
 #    Created: 2022/07/03 19:18:49 by nxwbtk       #+#   #+#   +#+     +#+           #
-#    Updated: 2022/07/03 19:27:19 by nxwbtk      ###     ###   ########.th          #
+#    Updated: 2022/07/03 19:42:20 by nxwbtk      ###     ###   ########.th          #
 #                                                                                   #
 # ********************************************************************************* #
 
@@ -26,3 +26,5 @@
 	let g:mail42 = 'YourEmail'
 4. Change your Username and Your Email
 5. Enjoy!!!
+
+Cr. 42.fr,alexandregv,ptippaya
